@@ -1,0 +1,10 @@
+build/
+*.exe
+*.obj
+*.o
+backtester
+generate_sample_data
+fetch_data
+output_*.csv
+.vs/
+.vscode/
